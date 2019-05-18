@@ -43,7 +43,7 @@ export default class About extends Component {
                         <p> Provide solutions to complex problems </p>
                         <p> Code reviews </p>
                         <p> Design and development of microservices using engineering best practices </p>
-                        <p> Strive for quality enginerring product using practices like CI/CD, Pre commit hooks, TDD, DDD, Code analysis etc.</p>
+                        <p> Strive for quality engineering product using practices like CI/CD, Pre commit hooks, TDD, DDD, Code analysis etc.</p>
                         <p> Developed serverless REST api's using AWS managed services</p>
                         <p> Frontend design and development using ReactJS as the library to develop resuable UI components</p>
                     </div>
