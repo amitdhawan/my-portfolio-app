@@ -57,7 +57,7 @@ export default class About extends Component {
                     <div className="desc">
                         <h3> Open source software advocate</h3>
                         <p> Contribute to open source community through platforms like Medium, Github, StackOverflow etc. </p>
-                        <p> Explore new technologies and provide MVP/POC's to help team in providing best solutions to sofware engineering problems</p>
+                        <p> Explore new technologies and provide MVP/POC's to help team in providing best solutions to software engineering problems</p>
                         <p> Motivate team members to learn new technologies and contribute back to community</p>
                         <p> Some of my interests in tech stack - Javascript, ReactJS, React-Native, Apache spark, Hadoop, AWS Athena, Node.js, NoSql databases, Redux, Python etc. </p>
                     </div>
